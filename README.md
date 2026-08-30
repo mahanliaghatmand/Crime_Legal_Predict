@@ -1,4 +1,4 @@
-# ⚖️ Crime & Legal Text Classification — Model Monitoring Dashboard
+# ⚖️ Crime & Legal Text Classification — Model
 
 A 4-class crime/legal text classification project using four different Keras architectures (Dense, Conv1D, LSTM, BiLSTM), paired with a professional **Streamlit** monitoring dashboard for tracking model performance, data drift, error analysis, and prediction explainability.
 
